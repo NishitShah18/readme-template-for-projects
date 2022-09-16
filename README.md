@@ -43,7 +43,7 @@ An in-depth paragraph about your project and overview of each module.
 ## API Reference
 
 #### Get all items
-```http
+```bash
   GET /api/items
 ```
 
@@ -52,7 +52,7 @@ An in-depth paragraph about your project and overview of each module.
 | `api_key` | `dataType` | **Required**. Your API key |
 
 #### Get item
-```http
+```bash
   GET /api/items/${id}
 ```
 
